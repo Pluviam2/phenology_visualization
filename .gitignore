@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (keep data local, not in repo)
+*.nc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+data/
+
+# OS
+.DS_Store
+Thumbs.db
